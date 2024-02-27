@@ -1,0 +1,76 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/bazaarnotifier.pw.toml"
+hash = "bc1bfcb0a017d0e4939fecb644aa9043fa9ab8cf36dfe316db517ae67507435f"
+metafile = true
+
+[[files]]
+file = "mods/crashpatch.pw.toml"
+hash = "261ba909ea6d3137a2f3494efa18c4941cec3cfcff123f9aad9e8ca826916bc2"
+metafile = true
+
+[[files]]
+file = "mods/hypixel-autocomplete-mod.pw.toml"
+hash = "721f40d29da7c76d1f8c5eb2bd822da6d0b9504074fbe209e497ada241f737e7"
+metafile = true
+
+[[files]]
+file = "mods/keystrokes.pw.toml"
+hash = "4d0bffbf26b2ed45b6b51f1ceddd197cff4ecbf00cf9d830d2589a1d5d78cfc1"
+metafile = true
+
+[[files]]
+file = "mods/levelhead.pw.toml"
+hash = "c3839f8ba7892f83e4d5cdb29447503555e52724fb5490525e0ed52e44819340"
+metafile = true
+
+[[files]]
+file = "mods/notenoughupdates.pw.toml"
+hash = "560725c4fe7a3b4743c4d043f50d4e20e11838a9c3b428a540be9b05cefeea61"
+metafile = true
+
+[[files]]
+file = "mods/optifine.pw.toml"
+hash = "5731a0516beee07dba31abba15a3e66e3fcd5d95cbb53c1cc16348b198560006"
+metafile = true
+
+[[files]]
+file = "mods/patcher.pw.toml"
+hash = "5f9299db504f92ac78cd0d5193fd093b9aa9ae89381ff1e5c9aa5e7d44ce868d"
+metafile = true
+
+[[files]]
+file = "mods/scrollable-tooltips.pw.toml"
+hash = "572813e78377bb6d3e88814c695d1c0646382e189352a41f53194f2a5653dfc6"
+metafile = true
+
+[[files]]
+file = "mods/skyblockmod.pw.toml"
+hash = "ce2d1345e201fd97216d89b3facf52ae410d77988c2c0a8d81f03bc724f8a48b"
+metafile = true
+
+[[files]]
+file = "mods/skyguide.pw.toml"
+hash = "dbdad32ca1d7d12c39a5f60b3b804ad135b6192841d32ad5ec4be9d6cfa38d87"
+metafile = true
+
+[[files]]
+file = "mods/skyhanni.pw.toml"
+hash = "20cfcd5e878654769a3772ba0b860a6a02ada37e62a07255ccfa8a939e13ac88"
+metafile = true
+
+[[files]]
+file = "mods/skytilsmod.pw.toml"
+hash = "1d0e5e93070d06886fe82462d401268a4ad0b269e1b1a3c309f46ae620f4f5f3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/furfsky-reborn.pw.toml"
+hash = "fd0e292629fa95a4a08fa56ac5e99f0309402c7e34b8fc371bbe64c1ec5e1821"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "68b79902d98bc38e4705b621dcc54321e35742f696b462070d457cf7156d7921"
+metafile = true

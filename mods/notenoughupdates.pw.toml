@@ -1,0 +1,13 @@
+name = "NotEnoughUpdates"
+filename = "NotEnoughUpdates-2.1.1-Pre-5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GGamhqbw/versions/g5dSGION/NotEnoughUpdates-2.1.1-Pre-5.jar"
+hash-format = "sha1"
+hash = "8eb7ef8dd355e2ae9e7713a4cec0668d4d5c7c40"
+
+[update]
+[update.modrinth]
+mod-id = "GGamhqbw"
+version = "g5dSGION"

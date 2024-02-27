@@ -1,0 +1,7 @@
+name = "OptiFine"
+filename = "OptiFine_1.8.9_HD_U_M5.jar"
+
+[download]
+url = "https://1drv.ms/u/s!ApGe3vQVlGbFktwxRQdervDAxLiUXg?e=M8zfij"
+hash-format = "sha256"
+hash = "e32f85e64037de75f2a0e42a592b0e0cde931b2bc121725fb1c2a37a3edae74f"

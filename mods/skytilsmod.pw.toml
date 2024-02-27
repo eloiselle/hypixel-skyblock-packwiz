@@ -1,0 +1,14 @@
+name = "SkytilsMod"
+filename = "Skytils-1.8.2.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Skytils/SkytilsMod/releases/download/v1.8.2/Skytils-1.8.2.jar"
+hash-format = "sha256"
+hash = "1886d7b891dce218085628f8747995fc85223f163139d37909d7b7c6d1ba3d65"
+
+[update]
+[update.github]
+branch = "1.x"
+slug = "Skytils/SkytilsMod"
+tag = "v1.8.2"

@@ -1,0 +1,14 @@
+name = "BazaarNotifier"
+filename = "BazaarNotifier-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/symt/BazaarNotifier/releases/download/1.7.1/BazaarNotifier-1.7.1.jar"
+hash-format = "sha256"
+hash = "3984c7d3a6eda09a76928e91de771402b938c8cbbcb548a3dbf122e0f20e74a2"
+
+[update]
+[update.github]
+branch = "master"
+slug = "symt/BazaarNotifier"
+tag = "1.7.1"

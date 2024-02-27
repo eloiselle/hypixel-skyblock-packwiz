@@ -1,0 +1,13 @@
+name = "Hypixel-Skyblock-Packwiz"
+author = "Emile Loiselle"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fffcc82bf594f259ddcb94cf7c7e04c16866d8322bc2a358b6b6ffcd7008003e"
+
+[versions]
+forge = "11.15.1.2318"
+minecraft = "1.8.9"

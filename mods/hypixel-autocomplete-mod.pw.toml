@@ -1,0 +1,14 @@
+name = "Hypixel-Autocomplete-Mod"
+filename = "Sk1er.Hypixel.Autocomplete.Mod-1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Sk1erLLC/Hypixel-Autocomplete-Mod/releases/download/1.8.9-1.0/Sk1er.Hypixel.Autocomplete.Mod-1.0.jar"
+hash-format = "sha256"
+hash = "a0d3a577fab7d98c882cf4eedde7c55830ffdd6b860443402704690461023de9"
+
+[update]
+[update.github]
+branch = "master"
+slug = "Sk1erLLC/Hypixel-Autocomplete-Mod"
+tag = "1.8.9-1.0"

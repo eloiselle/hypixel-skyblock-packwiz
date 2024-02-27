@@ -1,0 +1,13 @@
+name = "SkyHanni"
+filename = "SkyHanni-0.22.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/byNkmv5G/versions/5cYbSG6P/SkyHanni-0.22.jar"
+hash-format = "sha1"
+hash = "99cd160c30a70b1a011da032a614443e9bcc0530"
+
+[update]
+[update.modrinth]
+mod-id = "byNkmv5G"
+version = "5cYbSG6P"

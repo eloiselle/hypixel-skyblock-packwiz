@@ -1,0 +1,13 @@
+name = "Furfsky Reborn"
+filename = "§aFurfSky Reborn §8§lOVERLAY§8.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/khMbd0K1/versions/b5Sv9RgC/%C2%A7aFurfSky%20Reborn%20%C2%A78%C2%A7lOVERLAY%C2%A78.zip"
+hash-format = "sha1"
+hash = "8ee493fddffbb6dae10b31bef8329912b739dc9d"
+
+[update]
+[update.modrinth]
+mod-id = "khMbd0K1"
+version = "b5Sv9RgC"
