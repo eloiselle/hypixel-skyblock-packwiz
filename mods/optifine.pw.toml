@@ -1,7 +1,7 @@
 name = "OptiFine"
-filename = "OptiFine_1.8.9_HD_U_M5.jar"
+filename = "download"
 
 [download]
-url = "https://1drv.ms/u/s!ApGe3vQVlGbFktwxRQdervDAxLiUXg?e=M8zfij"
+url = "https://onedrive.live.com/download?resid=C5669415F4DE9E91%21306737&authkey=!AAZvh6Cw-Z-2DZw"
 hash-format = "sha256"
-hash = "e32f85e64037de75f2a0e42a592b0e0cde931b2bc121725fb1c2a37a3edae74f"
+hash = "2739760a70fca6ae5c7dc817bcc6283f18f55e38fa23778da7f387a6b724b2c4"

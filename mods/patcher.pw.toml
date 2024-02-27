@@ -1,7 +1,7 @@
 name = "Patcher"
-filename = "s!ApGe3vQVlGbFktw4sFYXIWZy5OAGNA"
+filename = "download"
 
 [download]
-url = "https://1drv.ms/u/s!ApGe3vQVlGbFktw4sFYXIWZy5OAGNA?e=aowcM1"
+url = "https://onedrive.live.com/download?resid=C5669415F4DE9E91%21306744&authkey=!AL8LRrn1Yfxy-Z0"
 hash-format = "sha256"
-hash = "467a0cdcf86a4f7dad7dffeb42aec10fdd79fd09ed13a9fe4562d077289539b6"
+hash = "0c61939fbd472f96c02c40bd77ef447c5719fecbb52c0a40eb90aaf198e7dd34"

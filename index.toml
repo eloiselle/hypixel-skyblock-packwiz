@@ -17,12 +17,12 @@ metafile = true
 
 [[files]]
 file = "mods/keystrokes.pw.toml"
-hash = "4d0bffbf26b2ed45b6b51f1ceddd197cff4ecbf00cf9d830d2589a1d5d78cfc1"
+hash = "440c908796acc37926d5bc520901643a64ad4949d019c9278c3797c6f9fff7c5"
 metafile = true
 
 [[files]]
 file = "mods/levelhead.pw.toml"
-hash = "c3839f8ba7892f83e4d5cdb29447503555e52724fb5490525e0ed52e44819340"
+hash = "758a6fb56f12dc8831bdc753c14b7743ab2cfcde9fa4710addcac1dbf61d8ba2"
 metafile = true
 
 [[files]]
@@ -32,17 +32,17 @@ metafile = true
 
 [[files]]
 file = "mods/optifine.pw.toml"
-hash = "5731a0516beee07dba31abba15a3e66e3fcd5d95cbb53c1cc16348b198560006"
+hash = "c415890d34da9cd243308d0f25ec8fe401da06ce69640901eadf888930d3dfa0"
 metafile = true
 
 [[files]]
 file = "mods/patcher.pw.toml"
-hash = "5f9299db504f92ac78cd0d5193fd093b9aa9ae89381ff1e5c9aa5e7d44ce868d"
+hash = "e092c68e2c1c7e1e8fe93062fa7f25f905552e9874b2895e1702dc6a7809dc2e"
 metafile = true
 
 [[files]]
 file = "mods/scrollable-tooltips.pw.toml"
-hash = "572813e78377bb6d3e88814c695d1c0646382e189352a41f53194f2a5653dfc6"
+hash = "5b61e221ffbd1e6bae4dae6c257d246d3ad22893ced76a00093fae2ee990921c"
 metafile = true
 
 [[files]]
