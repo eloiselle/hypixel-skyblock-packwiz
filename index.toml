@@ -1,76 +1,80 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "fe568ec1bd689526f95f6d0da9c83905c4b31121a599af1ce37ca7e8dedc4197"
+
+[[files]]
 file = "mods/bazaarnotifier.pw.toml"
-hash = "bc1bfcb0a017d0e4939fecb644aa9043fa9ab8cf36dfe316db517ae67507435f"
+hash = "c2f48bc5b7055cb829e4ce79f8801f33bb16fd6d09a36ddd8d35daa2cca06edc"
 metafile = true
 
 [[files]]
 file = "mods/crashpatch.pw.toml"
-hash = "261ba909ea6d3137a2f3494efa18c4941cec3cfcff123f9aad9e8ca826916bc2"
+hash = "b652a826eae954b28ececfbc3db44672af6c0a5e8aa9415952c98359e4168712"
 metafile = true
 
 [[files]]
 file = "mods/hypixel-autocomplete-mod.pw.toml"
-hash = "721f40d29da7c76d1f8c5eb2bd822da6d0b9504074fbe209e497ada241f737e7"
+hash = "3e9b29f2c242e344cc7f15081487378468fafc19493a0d6f920a4494ec042e35"
 metafile = true
 
 [[files]]
 file = "mods/keystrokes.pw.toml"
-hash = "440c908796acc37926d5bc520901643a64ad4949d019c9278c3797c6f9fff7c5"
+hash = "1170239d110b8fbc9c18dec2456f32bfbd6c0fb6dff5ea444fcf1d89ead47df8"
 metafile = true
 
 [[files]]
 file = "mods/levelhead.pw.toml"
-hash = "758a6fb56f12dc8831bdc753c14b7743ab2cfcde9fa4710addcac1dbf61d8ba2"
+hash = "74f8b3762cc5a667b5e74c2d1b2ef61436b19c499fbedb4479c29705225b0d2e"
 metafile = true
 
 [[files]]
 file = "mods/notenoughupdates.pw.toml"
-hash = "560725c4fe7a3b4743c4d043f50d4e20e11838a9c3b428a540be9b05cefeea61"
+hash = "01a8434c53d458ec65e5f7d4ca66996372c71b893bd9878ad8ccdb16bb1a0cb9"
 metafile = true
 
 [[files]]
 file = "mods/optifine.pw.toml"
-hash = "c415890d34da9cd243308d0f25ec8fe401da06ce69640901eadf888930d3dfa0"
+hash = "f94f5930f7558289fae1167ecf443d0853e3052cdda3b120170a54a719750335"
 metafile = true
 
 [[files]]
 file = "mods/patcher.pw.toml"
-hash = "e092c68e2c1c7e1e8fe93062fa7f25f905552e9874b2895e1702dc6a7809dc2e"
+hash = "b258c4a96a6aecfc2a26a15b5c157e1d91fd7c9c6ac32b3f354d3fc1744e228b"
 metafile = true
 
 [[files]]
 file = "mods/scrollable-tooltips.pw.toml"
-hash = "5b61e221ffbd1e6bae4dae6c257d246d3ad22893ced76a00093fae2ee990921c"
+hash = "e47414a13b6a69d8a9e95e4e3beb5b300c3161eb0fca7586a22555eda5f26f6e"
 metafile = true
 
 [[files]]
 file = "mods/skyblockmod.pw.toml"
-hash = "ce2d1345e201fd97216d89b3facf52ae410d77988c2c0a8d81f03bc724f8a48b"
+hash = "99116d18d639cd9c8ee570d3b93c8fa687d082dcd8ce4a4f1fdee021c6fbb0da"
 metafile = true
 
 [[files]]
 file = "mods/skyguide.pw.toml"
-hash = "dbdad32ca1d7d12c39a5f60b3b804ad135b6192841d32ad5ec4be9d6cfa38d87"
+hash = "1ee3d85553b6299a6a8ae79bd623c6bde4f7c747ad208920c70d4da639d49682"
 metafile = true
 
 [[files]]
 file = "mods/skyhanni.pw.toml"
-hash = "20cfcd5e878654769a3772ba0b860a6a02ada37e62a07255ccfa8a939e13ac88"
+hash = "43cf205a433f53cabf6a69e8728c35b6e98b0a2d486a055ce487be9fbd82fb73"
 metafile = true
 
 [[files]]
 file = "mods/skytilsmod.pw.toml"
-hash = "1d0e5e93070d06886fe82462d401268a4ad0b269e1b1a3c309f46ae620f4f5f3"
+hash = "f5b447eee58fe39bb23d371546eb58a4e3a7af4af43c8d9a11abd07ea3f7e783"
 metafile = true
 
 [[files]]
 file = "resourcepacks/furfsky-reborn.pw.toml"
-hash = "fd0e292629fa95a4a08fa56ac5e99f0309402c7e34b8fc371bbe64c1ec5e1821"
+hash = "0bdbb690601db28fbc7b2d21a6145963890bdaa1cdd1270efa919145a72820cb"
 metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "68b79902d98bc38e4705b621dcc54321e35742f696b462070d457cf7156d7921"
+hash = "902e968c947347cdf3b2a4b27c3a0b2e6ef228be73f12963c7d6f4fa03a8a7de"
 metafile = true
